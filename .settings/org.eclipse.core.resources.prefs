@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jspf/mainFooter.jspf=UTF-8
+encoding//WebContent/WEB-INF/jspf/mainHeader.jspf=UTF-8
+encoding//WebContent/jsp/homeScreen.jsp=UTF-8
+encoding//WebContent/jsp/loginScreen.jsp=UTF-8
+encoding//src/gr/hua/dit/website/HomeServlet.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
